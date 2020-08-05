@@ -53,3 +53,14 @@ export default App;
 // Jon Taylor (facilitator) showed me that my Team and Scoreboard components didn't need to be in the App component as they were already called in the Game component, which is in turn then called by the App component
 // Jon Taylor (facilitator) and Colin Stachelrodt (classmate) helped me get the images and audio to work properly
 // Many thanks to them both!
+
+// Coding assist from Davey Strus video solutions
+// ---Audio and Image Credits---
+// Sounds from: 
+// Zapsplat.com --> https://www.zapsplat.com/music/magic-wand-whoosh-burst-5/
+// freesoundeffects.com --> https://www.freesoundeffects.com/free-track/princess-bride-sword-426854/princess%20bride/
+// Images from:
+// grim reaper --> https://www.deviantart.com/nyourochi/art/Grim-Reaper-request-722635346
+// dragon --> https://www.vectorstock.com/royalty-free-vector/dragon-fire-holding-basketball-isolated-retro-vector-8293184
+// unicorn --> https://pixels.com/featured/1-unicorn-basketball-player-mister-tee.html
+// leprechaun --> https://www.redbubble.com/i/poster/Leprechaun-Basketball-T-Shirt-St-Patricks-Day-Boys-Kids-Men-by-LiqueGifts/30618900.LVTDI
